@@ -19,6 +19,10 @@ This is a brief university repository for Robot Motion Planning and Control usin
 - Plot joint-level **position**, **velocity**, and **acceleration** graphs during the motion
 
 ---
+### 🧩 Quintic Trajectory
+- This code is a basic version of the algorithm for time-based,Trajectory.
+
+---
 ### 🧭 Lab 3: Path Planning with Potential Field Method
 
 - Write a program to plan a path from an initial point to a final point while avoiding obstacles using the **Potential Field Method**
