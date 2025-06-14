@@ -19,7 +19,7 @@ This is a brief university repository for Robot Motion Planning and Control usin
 - Plot joint-level **position**, **velocity**, and **acceleration** graphs during the motion
 
 ---
-### 🧩 Quintic Trajectory
+### 🧩 Quintic Polynomial Trajectory
 - This code provides a basic implementation of the algorithm for finding the coefficients of a time-based trajectory.
 
 ---
