@@ -20,7 +20,7 @@ This is a brief university repository for Robot Motion Planning and Control usin
 
 ---
 ### 🧩 Quintic Trajectory
-- This code is a basic version of the algorithm for time-based,Trajectory.
+- This code provides a basic implementation of the algorithm for finding the coefficients of a time-based trajectory.
 
 ---
 ### 🧭 Lab 3: Path Planning with Potential Field Method
